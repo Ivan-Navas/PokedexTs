@@ -1,0 +1,40 @@
+.error {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+.error__tittle {
+  color: #000;
+  text-align: center;
+  font-family: "Cascadia Code", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.error__container {
+  width: 320px;
+  height: 320px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+.error__h2 {
+  color: #000;
+  text-align: center;
+  font-family: "Cascadia Code", sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  position: absolute;
+  top: -50px;
+  left: 104px;
+  z-index: 1;
+}
+.error__pokemon {
+  width: 320px;
+  height: 320px;
+}

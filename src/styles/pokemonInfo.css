@@ -1,0 +1,24 @@
+.pokemonInfo{
+  border-left: 1px solid #1f1f1f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pokemonInfo__noneC{
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pokemonInfo__none{
+  width: 300px;
+  height: 300px;
+}
+.pokemonInfo__container{
+  width: 90%;
+}
+.sprite-stats{
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,16 @@
+.hinge{
+  width: 100%;
+  height: 100vh;
+  display: grid;
+  grid-template-rows: 10% 78% 10%;
+}
+.hinge__div{
+  width: 100%;
+  height: 100%;
+}
+.hinge--first{
+  border-top: 1px solid #1f1f1f;  
+}
+.hinge--second{
+  border-top: 1px solid #1f1f1f;
+}

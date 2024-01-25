@@ -1,0 +1,27 @@
+#pokemonList__button {
+  width: 100px;
+  height: 100px;
+  border-radius: 0px 0px 0px 10px;
+  background: #d9d9d9;
+  -webkit-border-radius: 0px 0px 0px 10px;
+  -moz-border-radius: 0px 0px 0px 10px;
+  -ms-border-radius: 0px 0px 0px 10px;
+  -o-border-radius: 0px 0px 0px 10px;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.pokemonList__img{
+  width: 100px;
+  height: 100px;
+}
+.pokemonList__name {
+  color: #fff;
+  font-family: "Cascadia Code", sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  text-align: center 
+}

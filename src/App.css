@@ -1,0 +1,9 @@
+body{
+  background : #DD092F;
+  margin : 0;
+  padding : 0;
+}
+.app{
+  display: grid;
+  grid-template-columns: 47.5% 5% 47.5%;
+}
